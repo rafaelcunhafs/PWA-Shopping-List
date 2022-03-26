@@ -1,0 +1,22 @@
+{
+	"short_name": "Shopping List",
+	"name": "Shopping List",
+	"start_url": ".",
+	"background_color": "#2c3c81",
+	"theme_color": "#233067",
+	"display": "standalone",
+	"icons": [
+    {
+      "src": "images/logo_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "images/logo_x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+	]
+}
